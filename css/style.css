@@ -8196,11 +8196,9 @@ h1, h2, h3, h4, h5,
   font-family: "Poppins", Arial, sans-serif;
   line-height: 1;
   text-transform: uppercase; }
-  .navbar-brand span {
+  .navbar-brand img {
     display: block;
-    font-size: 11px;
-    font-weight: 600;
-    text-transform: uppercase; }
+    height: 80px; }
 
 .hero-wrap {
   width: 100%;
@@ -8223,11 +8221,11 @@ h1, h2, h3, h4, h5,
     opacity: .5;
     background: #000000; }
   .hero-wrap.hero-wrap-2 {
-    height: 700px; }
+    height: 300px; }
     .hero-wrap.hero-wrap-2 .overlay {
       opacity: .3; }
     .hero-wrap.hero-wrap-2 .slider-text {
-      height: 700px; }
+      height: 300px; }
 
 @-webkit-keyframes blinker {
   from {
